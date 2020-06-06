@@ -1,0 +1,4 @@
+# Project exclude paths
+/not_needed/
+/test_module.py
+/.idea
